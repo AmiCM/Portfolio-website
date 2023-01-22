@@ -1,0 +1,26 @@
+---
+title: "Amilcar Campos"
+image: images/profile.jpg
+about:
+  template: jolla
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: mastodon
+      text: Mastodon
+      href: https://fosstodon.org/@deepsha
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/bigdatadipper
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/deepshamenghani
+    - icon: github
+      text: Github
+      href: https://github.com/deepshamenghani/
+    - icon: envelope
+      text: Contact me
+      href: mailto:menghani.deepsha@gmail.com
+---
+
+## About this blog

@@ -1,0 +1,51 @@
+project:
+  type: website
+
+website:
+  title: "Amilcar Campos"
+  favicon: "images/profile.jpg"
+  
+  page-footer:
+    center: |
+        [Contact Deepsha Menghani](mailto:menghani.deepsha@gmail.com)
+    left: |
+        Made with [Quarto](https://quarto.org/)
+    right: |
+        [Github Code Repo](https://github.com/deepshamenghani)
+    background: "#2780e3"
+
+  navbar:
+    left: 
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+      - href: blog.qmd
+        text: Blog
+    right:
+      - icon: envelope
+        text: Contact me
+        href: mailto:menghani.deepsha@gmail.com
+      - icon: github
+        href: https://github.com/
+      - icon: linkedin
+        href: www.linkedin.com/in/deepshamenghani
+      - icon: twitter
+        href: https://twitter.com
+      - icon: mastodon
+        href: https://fosstodon.org/@deepsha
+
+
+        
+    
+format:
+  html:
+    theme: 
+      light: litera
+      dark: superhero
+    css: styles.css
+
+editor: visual
+
