@@ -1,6 +1,6 @@
 ---
 title: "Amilcar Campos"
-image: images/profile.jpg
+image: images/profile.png
 about:
   template: jolla
   image-width: 20em
@@ -21,3 +21,7 @@ about:
 ---
 
 ## About this blog
+
+This is a personal blog, posting about all the topics I'm interested about: Technology, Investing, Computer Science and Programming, Economy, Statistics, Probability and Maths.
+
+This site is also intended to showcase my experience and professional expertise through my portfolio projects and CV. Any individual is welcome.

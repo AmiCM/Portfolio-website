@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Amilcar Campos"
-  favicon: "images/profile.jpg"
+  favicon: "images/profile.png"
   
   page-footer:
     center: |

@@ -1,11 +1,10 @@
 ---
 title: "Will the Artificial Intelligence 'steal our jobs'?"
-author: "Harlow Malloc"
+author: "Amilcar Campos"
 date: "2023-01-21"
 categories: [artificial intelligence, code, economy]
 image: "cover.jpg"
 draft: false
 ---
 
-This is a post with executable code.
-
+Hi.
