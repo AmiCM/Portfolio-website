@@ -8,11 +8,11 @@ website:
   
   page-footer:
     center: |
-        [Contact Deepsha Menghani](mailto:menghani.deepsha@gmail.com)
+        [Contact Amilcar Campos](mailto:contacto@amicampos.com)
     left: |
-        Made with [Quarto](https://quarto.org/)
+        Website Made with [Quarto](https://quarto.org/)
     right: |
-        [Github Code Repo](https://github.com/deepshamenghani)
+        [Github Code Repo](https://github.com/AmiCM)
     background: "#2780e3"
 
   navbar:
@@ -28,18 +28,13 @@ website:
     right:
       - icon: envelope
         text: Contact me
-        href: mailto:menghani.deepsha@gmail.com
+        href: mailto::contacto@amicampos.com
       - icon: github
-        href: https://github.com/
+        href: https://github.com/AmiCM/
       - icon: linkedin
-        href: www.linkedin.com/in/deepshamenghani
+        href: https://www.linkedin.com/in/amilcar-campos-mena-0275701a3/
       - icon: twitter
-        href: https://twitter.com
-      - icon: mastodon
-        href: https://fosstodon.org/@deepsha
-
-
-        
+        href: https://twitter.com/Amilcar68669582/
     
 format:
   html:

@@ -6,21 +6,18 @@ about:
   image-width: 20em
   image-shape: round
   links:
-    - icon: mastodon
-      text: Mastodon
-      href: https://fosstodon.org/@deepsha
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/bigdatadipper
+      href: https://twitter.com/Amilcar68669582/
     - icon: linkedin
       text: LinkedIn
-      href: www.linkedin.com/in/deepshamenghani
+      href: https://www.linkedin.com/in/amilcar-campos-mena-0275701a3/
     - icon: github
       text: Github
-      href: https://github.com/deepshamenghani/
+      href: https://github.com/AmiCM/
     - icon: envelope
       text: Contact me
-      href: mailto:menghani.deepsha@gmail.com
+      href: mailto::contacto@amicampos.com
 ---
 
 ## About this blog
