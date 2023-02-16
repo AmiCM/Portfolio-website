@@ -1,10 +1,7 @@
 [
   {
     "listing": "/projects.html",
-    "items": [
-      "/portfolio/post-with-code/index.html",
-      "/portfolio/welcome/index.html"
-    ]
+    "items": []
   },
   {
     "listing": "/resume.html",

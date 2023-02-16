@@ -3,6 +3,7 @@ title: "Hello"
 author: "Ami"
 date: "2023-01-18"
 categories: [news]
+draft: true
 ---
 
 This is the first post in a Quarto blog. Welcome!
