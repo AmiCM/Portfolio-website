@@ -1,10 +1,41 @@
 ---
 title: "Will the Artificial Intelligence 'steal our jobs'?"
 author: "Amilcar Campos"
-date: "2023-01-21"
+date: "2023-02-01"
 categories: [artificial intelligence, code, economy]
 image: "cover.jpg"
 draft: false
 ---
+## Intro
 
-Hi.
+The Artificial Intelligence hype has started, and a lot of questions are raising. One of them is if the machines are finally going to take our jobs.
+
+Despites the fact that these questions are not new, this time is a little bit different.
+
+## A little background
+
+Since the human creations exists, other humans are concerned about their own utility. On the other side, the innovation has been the primary tool to generate progress in the society.
+
+The industrial revolutions started a new immortal trend of 'fear' the changes. This is mainly because some of the workers that used to have a common profession find themselves intimidated by the new automation machines and industries. In the long term, this progress results in positive outcome, but in the short term, there's a lot of employees loosing their jobs, now trying to find an opportunity in a new area.
+
+## The Artificial Inteligence furor
+
+The last couple days, new technologies have started to flow, one of those is the AI. 
+
+Most of the companies and governments are investing huge amounts of capital in developing new AI and deep learning models, intended to solve modernity problems, such as autonomous cars, fraud detection, image processing, natural language processing, etc.
+
+One of the trending tools used in the current days is GPT-3. Which is capable of creating images and answering language questions based in a complex AI model. This situation is creating new automation opportunities, such as excel formula, copywritting, summarizing, re-redacting texts, and even programming.
+
+On the other side, so much people as lawyers, programmers, employees, designers, artists, and almost all the industries are experiencing a new ecosystem aimed to replace humans in a wide variety of tasks. But it is nothing to fear (at the moment).
+
+## The actual Situation
+
+To be clear, despite all the new developments, the truth is that these models are still too weak to accomplish and replace an entire human. For example, the lawyers must be upgrading their knowledge basis constantly, and have a clear understanding on the law concepts and the years in which certain law is applied.
+
+On the other side, to develop an AI model intended to use replace a lawyer, it is precise to train it with lots of text data related to the law industry, seeking that the model knows which law is still available, using an specialized team os programmers and lawyers. One simple model as CHAT-GPT is really far from that state for example, because it takes more than one year just to train the model and deploy it, and, by the time it is deployed, it will not have the newest information.
+
+This same situation comes with a lot more of professions, such as the accountants, programmers (with new technologies), medics, and engineers.
+
+## Conclusion
+
+As the world is still changing constantly and the humans still have the ability to know what is exactly the thing the client is looking for, the humans are still going to be a almost a necessity for the companies. Almost.
