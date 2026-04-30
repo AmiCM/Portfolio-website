@@ -8,33 +8,27 @@ website:
   
   page-footer:
     center: |
-        [Contact Amilcar Campos](mailto:contacto@amicampos.com)
+        [Contact Amilcar Campos](mailto:contact@amicampos.com)
     left: |
         Website Made with [Quarto](https://quarto.org/)
     right: |
-        [Github Code Repo](https://github.com/AmiCM)
+        [Github Code Repo](https://github.com/AmiCM/Portfolio-website)
     background: "#2780e3"
 
   navbar:
     left: 
       - href: index.qmd
         text: Home
-      - href: projects.qmd
-        text: Projects
-      - href: resume.qmd
-        text: Resume
       - href: blog.qmd
         text: Blog
     right:
       - icon: envelope
         text: Contact me
-        href: mailto::contacto@amicampos.com
+        href: mailto::contact@amicampos.com
       - icon: github
         href: https://github.com/AmiCM/
       - icon: linkedin
-        href: https://www.linkedin.com/in/amilcar-campos-mena-0275701a3/
-      - icon: twitter
-        href: https://twitter.com/Amilcar68669582/
+        href: https://www.linkedin.com/in/amilcar-campos/
     
 format:
   html:

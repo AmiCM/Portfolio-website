@@ -4,8 +4,8 @@ author: "Amilcar Campos"
 date: "2023-02-01"
 categories: [artificial intelligence, code, economy]
 image: "cover.jpg"
-draft: false
 ---
+
 ## Intro
 
 The Artificial Intelligence hype has started, and a lot of questions are raising. One of them is if the machines are finally going to take our jobs.
@@ -20,7 +20,7 @@ The industrial revolutions started a new immortal trend of 'fear' the changes. T
 
 ## The Artificial Inteligence furor
 
-The last couple days, new technologies have started to flow, one of those is the AI. 
+The last couple days, new technologies have started to flow, one of those is the AI.
 
 Most of the companies and governments are investing huge amounts of capital in developing new AI and deep learning models, intended to solve modernity problems, such as autonomous cars, fraud detection, image processing, natural language processing, etc.
 

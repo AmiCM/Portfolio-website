@@ -1,4 +1,0 @@
----
-#title: "Amilcar Campos "
-#title-block-banner: true
----

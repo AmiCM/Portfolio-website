@@ -6,22 +6,17 @@ about:
   image-width: 20em
   image-shape: round
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/Amilcar68669582/
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/amilcar-campos-mena-0275701a3/
+      href: https://www.linkedin.com/in/amilcar-campos/
     - icon: github
       text: Github
       href: https://github.com/AmiCM/
     - icon: envelope
-      text: Contact me
-      href: mailto::contacto@amicampos.com
+      text: Email
+      href: mailto::contact@amicampos.com
 ---
 
 ## About this blog
 
-This is a personal blog, posting about all the topics I'm interested about: Technology, Investing, Computer Science and Programming, Economy, Statistics, Probability and Maths.
-
-This site is also intended to showcase my experience and professional expertise through my portfolio projects and CV. Any individual is welcome.
+This is a personal blog about diverse topics, mainly: Technology, Investing, Cloud, AI, etc.

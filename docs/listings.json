@@ -1,19 +1,9 @@
 [
   {
-    "listing": "/projects.html",
-    "items": []
-  },
-  {
-    "listing": "/resume.html",
-    "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
-    ]
-  },
-  {
     "listing": "/blog.html",
     "items": [
-      "/posts/ai-jobs/index.html"
+      "/posts/ai-jobs/index.html",
+      "/posts/welcome/index.html"
     ]
   }
 ]
